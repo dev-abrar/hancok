@@ -1,0 +1,1533 @@
+@media (min-width: 1400px) {
+
+    .about_img:hover img {
+        margin-top: 20px;
+        margin-left: 45px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+
+    #banner {
+        padding-top: 300px;
+    }
+
+    .banner_text h1 {
+        font-size: 50px;
+    }
+
+    .ban_icon {
+        margin-top: 200px;
+    }
+
+    .about_img {
+        width: 100%;
+        height: 400px;
+    }
+
+    .about_text {
+        margin-left: 30px;
+    }
+
+    .ab_btn {
+        margin-left: 30px;
+    }
+
+    .header1 h3 {
+        font-size: 34px;
+    }
+
+    .header1 h3::after {
+        bottom: 9px;
+        left: 175px;
+    }
+
+    .header2 h3 {
+        font-size: 34px;
+    }
+
+    .header2 h3::after {
+        bottom: 9px;
+        right: 120px;
+    }
+
+    .pop_left {
+        width: 100%;
+        height: 334px;
+    }
+
+    .pop_l_img {
+        position: absolute;
+        top: -271px;
+        left: 0;
+    }
+
+    .th h3::after {
+        left: 140px;
+    }
+
+    .sale_img {
+        height: 400px;
+    }
+
+    .team_img {
+        width: 545px;
+        height: 362px;
+    }
+
+    .team_text p {
+        padding-right: 160px;
+    }
+
+    .fh h3::after {
+        left: 330px;
+    }
+
+    .f_text {
+        margin-left: 18px;
+        margin-top: -10px;
+    }
+
+    .sth h3::after {
+        left: 190px;
+    }
+
+    .foot_top {
+        padding-right: 20px;
+    }
+
+    .f_t_form {
+        margin-left: 20px;
+    }
+
+    .foot2 ul li a,
+    .foot3 ul li a {
+        margin-bottom: 25px;
+    }
+
+    .s_row h3::after {
+        bottom: 9px;
+        right: 100px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 13px;
+    }
+
+    .navbar_icon a {
+        font-size: 14px;
+        margin-left: 15px;
+        margin-top: 10px;
+    }
+
+    #banner {
+        padding-top: 240px;
+    }
+
+    .banner_text h3 {
+        font-size: 25px;
+    }
+
+    .banner_text h1 {
+        font-size: 40px;
+    }
+
+    .ban_icon {
+        margin-top: 140px;
+    }
+
+    .header1 h3 {
+        font-size: 32px;
+    }
+
+    .header1 h3::after {
+        bottom: 10px;
+        left: 175px;
+    }
+
+    .about_img {
+        width: 100%;
+        height: 365px;
+    }
+
+    .about_img:hover img {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        margin-top: 0;
+        margin-left: 0;
+    }
+
+    .about_text h4 {
+        font-size: 22px;
+    }
+
+    .about_text ul li {
+        font-size: 16px;
+    }
+
+    .about_text {
+        margin-left: 25px;
+    }
+
+    .about_text p {
+        font-size: 16px;
+    }
+
+    .ab_btn {
+        margin-left: 25px;
+    }
+
+    .pop_left {
+        width: 100%;
+        height: 280px;
+    }
+
+    .header2 h3 {
+        font-size: 30px;
+    }
+
+    .header2 h3::after {
+        bottom: 11px;
+        right: 112px;
+    }
+
+    .pop_l_img {
+        position: absolute;
+        top: -252px;
+        left: 0px;
+        -webkit-transform: scale(.9);
+        -ms-transform: scale(.9);
+        transform: scale(.9);
+    }
+
+    .t_head h4 {
+        font-size: 20px;
+    }
+
+    .tour-content {
+        bottom: -10px;
+        left: 25px;
+    }
+
+    .sale_img {
+        height: 350px;
+    }
+
+    .sale_text h4 {
+        font-size: 18px;
+    }
+
+    .s_row h3::after {
+        right: 80px;
+    }
+
+    .store_item h4 {
+        font-size: 24px;
+    }
+
+    .team_img {
+        width: 458px;
+        height: 330px;
+    }
+
+    .team_img img {
+        height: 100%;
+    }
+
+    .team_text p {
+        padding-right: 135px;
+    }
+
+    .f_text {
+        margin-left: 20px;
+        margin-top: -10px;
+    }
+
+    .fh h3 {
+        font-size: 24px;
+    }
+
+    .fh h3::after {
+        bottom: 12px;
+        left: 232px;
+    }
+
+    .f_t_t h3 {
+        font-size: 35px;
+    }
+
+    .f_t_form {
+        margin-left: 0;
+    }
+
+    .foot_top {
+        padding-right: 30px;
+    }
+
+    .foot2 ul li a,
+    .foot3 ul li a {
+        margin-bottom: 18px;
+    }
+
+    .f1_icon {
+        margin-top: 30px;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    /* =============== navbar area start ============== */
+    .navbar {
+        position: static;
+        background: #111;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+
+    .navbar-expand-lg .navbar-nav {
+        margin-left: 46px;
+        margin-top: 0px;
+        text-align: center;
+    }
+
+    /* =============== navbar area end ============== */
+
+    /* =============== banner area end ============== */
+    #banner {
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+
+    .banner_text h3 {
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+
+    .banner_text h1 {
+        font-size: 34px;
+        margin-bottom: 20px;
+    }
+
+    .banner_text h1::after {
+        display: none;
+    }
+
+    .banner_text {
+        text-align: center;
+    }
+
+    .banner_text p {
+        margin-bottom: 30px;
+    }
+
+    .banner_text a i {
+        font-size: 14px;
+    }
+
+    .ban_icon {
+        margin-top: 60px;
+        text-align: center;
+    }
+
+    .ban_icon a {
+        margin-right: 10px;
+    }
+
+    /* =============== banner area end ============== */
+
+    /* =============== about area end ============== */
+    .header1 h3 {
+        font-size: 30px;
+    }
+
+    .header1 h3::after {
+        display: none;
+    }
+
+    .header1 {
+        text-align: center;
+    }
+
+    .ab_img::after {
+        display: none;
+    }
+
+    .ab_img::before {
+        display: none;
+    }
+
+    .about_img:hover img {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        margin-top: 0;
+        margin-left: 0;
+    }
+
+    .about_img {
+        border-radius: 0;
+        width: 610px;
+        height: 310px;
+        margin: 0 auto;
+    }
+
+    .about_text h4 {
+        margin-bottom: 20px;
+        margin-top: 45px;
+    }
+
+    .ab_btn {
+        text-align: center;
+    }
+
+    .about_text p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .about_text {
+        text-align: center;
+    }
+
+    /* =============== about area end ============== */
+
+    /* =============== populer area end ============== */
+    #popular {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .header2 {
+        text-align: center !important;
+    }
+
+    .header2 h3 {
+        font-size: 30px;
+        margin-bottom: 35px;
+    }
+
+    .header2 h3::after {
+        display: none;
+    }
+
+    .popular_left {
+        display: none;
+    }
+
+    .pop_first {
+        display: none !important;
+    }
+
+    .pop_last {
+        display: none !important;
+    }
+
+    .pop_item {
+        height: 265px;
+        -webkit-clip-path: none;
+        clip-path: none;
+        margin: 0 8px;
+    }
+
+    /* =============== populer area end ============== */
+
+    /* =============== tournament area end ============== */
+    #tournament {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    #tournament .play-icon i {
+        font-size: 16px;
+        width: 40px;
+        height: 40px;
+        line-height: 38px;
+    }
+
+    .th h3 {
+        font-size: 30px !important;
+        margin-bottom: 0;
+        line-height: 0;
+    }
+
+    .main-item-tour .item-tournament .image-of-tornmnt img {
+        filter: grayscale(0);
+        -webkit-filter: grayscale(0);
+    }
+
+    .tour-content h3 {
+        font-size: 20px;
+    }
+
+    .tour-content p {
+        font-size: 14px;
+    }
+
+    .t_head h4 {
+        margin-top: 10px;
+        margin-bottom: 40px;
+    }
+
+    .t_text2 h4 {
+        font-size: 24px;
+        font-weight: 500;
+        font-family: var(--f2);
+        color: #fff;
+    }
+
+    .t_logo {
+        -webkit-transform: scale(.8);
+        -ms-transform: scale(.8);
+        transform: scale(.8);
+    }
+
+    .t_left {
+        width: 100%;
+        -webkit-clip-path: none;
+        clip-path: none;
+    }
+
+    .t_right {
+        width: 100%;
+        -webkit-clip-path: none;
+        clip-path: none;
+    }
+
+    .s_row {
+        margin-top: -50px !important;
+    }
+
+    .sale_img {
+        height: 400px;
+    }
+
+    #sale {
+        padding-top: 90px;
+        padding-bottom: 50px;
+    }
+
+    .cat_text h2 {
+        font-size: 26px;
+        line-height: 35px;
+    }
+
+    .cat_text h2 {
+        font-size: 20px;
+        line-height: 35px;
+    }
+
+    .cat_text p {
+        font-size: 14px;
+    }
+
+    .main_cat {
+        margin-top: 30px;
+    }
+
+    .catalog {
+        padding: 30px 10px;
+    }
+
+    .th h3 {
+        font-size: 20px;
+        margin-bottom: 0;
+        line-height: 0;
+    }
+
+    /* =============== tournament area end ============== */
+
+    /* =============== store area end ============== */
+    #store {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .st_first {
+        display: none !important;
+    }
+
+    .st_last {
+        display: none !important;
+    }
+
+    .team_img {
+        width: 100%;
+        height: 90%;
+    }
+
+    .team_text h2 {
+        font-size: 24px;
+    }
+
+    .team_overly {
+        height: 70px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .team_img:hover .team_overly {
+        height: 180px;
+    }
+
+    .team_text p {
+        font-size: 13px;
+        margin-bottom: 20px;
+        padding-right: 0;
+        line-height: 18px;
+    }
+
+    .team_btn button {
+        font-size: 14px;
+        padding: 8px 12px;
+    }
+
+    .te_icon a {
+        margin-right: 10px;
+        margin-top: 5px;
+    }
+
+    .faq_col:nth-child(1),
+    .faq_col:nth-child(2) {
+        margin-bottom: 30px;
+    }
+
+    .f_head {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 20px;
+    }
+
+    .faq_col:nth-child(4) {
+        margin-top: 30px;
+    }
+
+    .f_text {
+        text-align: center;
+    }
+
+    .faq_row::before {
+        display: none;
+    }
+
+    .faq_row::after {
+        display: none;
+    }
+
+    .Faqq_3 {
+        margin-top: 31px;
+    }
+
+    .foot_top {
+        width: 100%;
+        padding: 30px 20px;
+        top: -85px;
+    }
+
+    .f_t_form {
+        margin-left: 0;
+    }
+
+    .f_t_t h3 {
+        font-size: 20px;
+        line-height: 30px;
+        text-align: center;
+    }
+
+    .f_t_form input {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .f_t_form button {
+        width: 50%;
+        position: static;
+        margin-top: 25px;
+        margin-left: 10px;
+    }
+
+    #faq {
+        padding-bottom: 130px;
+    }
+
+    /* =============== store area end ============== */
+
+    /* =============== footer area end ============== */
+    .foot_content {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .foot1 {
+        margin-top: 0;
+    }
+
+    .foot1 p {
+        padding-right: 0;
+    }
+
+    .f1_icon {
+        margin-top: 30px;
+        margin-bottom: 45px;
+    }
+
+    .foot2,
+    .foot3 {
+        text-align: center;
+        margin-top: 12px;
+    }
+
+    .f1_icon a {
+        margin-right: 10px;
+    }
+
+    .foot2 ul li a,
+    .foot3 ul li a {
+        margin-bottom: 28px;
+    }
+
+    /* =============== footer area end ============== */
+
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+    /* =============== navbar area start ============== */
+    .navbar {
+        padding-top: 0;
+        padding-bottom: 0;
+        position: static;
+        background: #111;
+    }
+
+    .navbar-brand {
+        -webkit-transform: scale(.8);
+        -ms-transform: scale(.8);
+        transform: scale(.8);
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+
+    .navbar-expand-lg .navbar-nav {
+        margin-left: 46px;
+        margin-top: 0;
+        text-align: center;
+    }
+
+    .navbar-expand-lg .navbar-nav .active .nav-link {
+        color: #fff;
+    }
+
+    /* =============== navbar area end ============== */
+
+    /* =============== banner area end ============== */
+    #banner {
+        padding-top: 65px;
+        padding-bottom: 65px;
+    }
+
+    .banner_text h3 {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+
+    .banner_text h1 {
+        font-size: 32px;
+        margin-bottom: 15px;
+    }
+
+    .banner_text h1::after {
+        display: none;
+    }
+
+    .banner_text {
+        text-align: center;
+    }
+
+    .banner_text p {
+        font-size: 13px;
+        margin-bottom: 20px;
+        line-height: 20px;
+    }
+
+    .banner_btn a {
+        font-size: 15px;
+        padding: 8px 12px;
+    }
+
+    .banner_text a i {
+        font-size: 13px;
+    }
+
+    .ban_icon {
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .ban_icon a {
+        margin-right: 10px;
+    }
+
+    /* =============== banner area end ============== */
+
+    /* =============== about area end ============== */
+    .header1 h3 {
+        font-size: 20px;
+        margin-bottom: 40px;
+        line-height: 36px;
+    }
+
+    .header1 h3::after {
+        display: none;
+    }
+
+    .header1 {
+        text-align: center;
+    }
+
+    .ab_img::after {
+        display: none;
+    }
+
+    .ab_img::before {
+        display: none;
+    }
+
+    .about_img:hover img {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        margin-top: 0;
+        margin-left: 0;
+    }
+
+    .about_img {
+        border-radius: 0;
+        width: 405px;
+        height: 200px;
+        margin: 0 auto;
+    }
+
+    .about_text h4 {
+        font-size: 22px;
+        margin-bottom: 18px;
+        margin-top: 30px;
+    }
+
+    .about_text ul li {
+        font-size: 15px;
+        margin-bottom: 4px;
+    }
+
+    .ab_btn {
+        text-align: center;
+    }
+
+    .ab_btn a {
+        font-size: 15px;
+        padding: 8px 12px;
+    }
+
+    .ab_text a i {
+        font-size: 13px;
+    }
+
+    .about_text p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .about_text {
+        text-align: center;
+    }
+
+    /* =============== about area end ============== */
+
+    /* =============== populer area end ============== */
+    #popular {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+
+    .header2 {
+        text-align: center !important;
+    }
+
+    .header2 h3 {
+        font-size: 20px;
+        margin-bottom: 20px;
+        line-height: 36px;
+    }
+
+    .header2 h3::after {
+        display: none;
+    }
+
+    .popular_left {
+        display: none;
+    }
+
+    .pop_first {
+        display: none !important;
+    }
+
+    .pop_last {
+        display: none !important;
+    }
+
+    .pop_item {
+        height: 265px;
+        -webkit-clip-path: none;
+        clip-path: none;
+        margin: 0 8px;
+    }
+
+    /* =============== populer area end ============== */
+
+    /* =============== tournament area end ============== */
+    #tournament {
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+
+    #tournament .play-icon i {
+        font-size: 16px;
+        width: 40px;
+        height: 40px;
+        line-height: 38px;
+    }
+
+    .main-item-tour .item-tournament .image-of-tornmnt img {
+        filter: grayscale(0);
+        -webkit-filter: grayscale(0);
+    }
+
+    .tour-content h3 {
+        font-size: 20px;
+    }
+
+    .tour-content p {
+        font-size: 14px;
+    }
+
+    .t_head h4 {
+        margin-top: 10px;
+        margin-bottom: 40px;
+    }
+
+    .t_left {
+        width: 100%;
+        -webkit-clip-path: none;
+        clip-path: none;
+    }
+
+    .t_right {
+        width: 100%;
+        -webkit-clip-path: none;
+        clip-path: none;
+    }
+
+    .s_row {
+        margin-top: -50px !important;
+    }
+
+    .sale_img {
+        height: 400px;
+    }
+
+    #sale {
+        padding-top: 90px;
+        padding-bottom: 50px;
+    }
+
+    .cat_text h2 {
+        font-size: 20px;
+        line-height: 35px;
+    }
+
+    .cat_text p {
+        font-size: 14px;
+    }
+
+    .main_cat {
+        margin-top: 30px;
+    }
+
+    .catalog {
+        padding: 30px 10px;
+    }
+
+    .th h3 {
+        font-size: 20px;
+        margin-bottom: 0;
+        line-height: 0;
+    }
+
+    /* =============== tournament area end ============== */
+
+    /* =============== store area end ============== */
+    #store {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .st_first {
+        display: none !important;
+    }
+
+    .st_last {
+        display: none !important;
+    }
+
+    .team_img {
+        width: 100%;
+        height: 92%;
+    }
+
+    .team_text p {
+        font-size: 13px;
+        margin-bottom: 20px;
+        padding-right: 0;
+        line-height: 18px;
+    }
+
+    .team_btn button {
+        font-size: 14px;
+        padding: 8px 12px;
+    }
+
+    .te_icon a {
+        margin-right: 10px;
+        margin-top: 5px;
+    }
+
+    .faq_col:nth-child(1),
+    .faq_col:nth-child(2) {
+        margin-bottom: 30px;
+    }
+
+    .f_head {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 20px;
+    }
+
+    .faq_col:nth-child(4) {
+        margin-top: 30px;
+    }
+
+    .f_text {
+        text-align: center;
+    }
+
+    .faq_row::before {
+        display: none;
+    }
+
+    .faq_row::after {
+        display: none;
+    }
+
+    .foot_top {
+        width: 100%;
+        padding: 30px 20px;
+        top: -95px;
+    }
+
+    .f_t_form {
+        margin-left: 0;
+    }
+
+    .f_t_t h3 {
+        font-size: 20px;
+        line-height: 30px;
+        text-align: center;
+    }
+
+    .f_t_form input {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .f_t_form button {
+        width: 50%;
+        position: static;
+        margin-top: 25px;
+        margin-left: 10px;
+    }
+
+    #faq {
+        padding-bottom: 130px;
+    }
+
+    /* =============== store area end ============== */
+
+    /* =============== footer area end ============== */
+    .foot_content {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .foot1 {
+        margin-top: 50px;
+    }
+
+    .foot1 p {
+        padding-right: 0;
+    }
+
+    .f1_icon {
+        margin-top: 30px;
+        margin-bottom: 45px;
+    }
+
+    .bt_top {
+        display: none !important;
+    }
+
+    .cursor.cursor-follower {
+        display: none;
+    }
+
+    .cursor {
+        display: none;
+    }
+
+    /* =============== footer area end ============== */
+
+}
+
+@media (max-width: 575.99px) {
+
+    /* =============== navbar area start ============== */
+    .navbar {
+        padding-top: 0;
+        padding-bottom: 0;
+        position: static;
+        background: #111;
+    }
+
+    .navbar-brand {
+        -webkit-transform: scale(.8);
+        -ms-transform: scale(.8);
+        transform: scale(.8);
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+
+    .navbar-expand-lg .navbar-nav {
+        margin-left: 46px;
+        margin-top: -250px;
+        text-align: center;
+    }
+
+    .navbar-expand-lg .navbar-nav .active .nav-link {
+        color: #fff;
+    }
+
+    /* =============== navbar area end ============== */
+
+    /* =============== banner area end ============== */
+    #banner {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+
+    .banner_text h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .banner_text h1 {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+
+    .banner_text h1::after {
+        display: none;
+    }
+
+    .banner_text {
+        text-align: center;
+    }
+
+    .banner_text p {
+        font-size: 13px;
+        margin-bottom: 20px;
+        line-height: 20px;
+    }
+
+    .banner_btn a {
+        font-size: 15px;
+        padding: 8px 12px;
+    }
+
+    .banner_text a i {
+        font-size: 13px;
+    }
+
+    .ban_icon {
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .ban_icon a {
+        margin-right: 10px;
+    }
+
+    /* =============== banner area end ============== */
+
+    /* =============== about area end ============== */
+    .header1 h3 {
+        font-size: 20px;
+        margin-bottom: 40px;
+        line-height: 36px;
+    }
+
+    .header1 h3::after {
+        display: none;
+    }
+
+    .header1 {
+        text-align: center;
+    }
+
+    .ab_img::after {
+        display: none;
+    }
+
+    .ab_img::before {
+        display: none;
+    }
+
+    .about_img:hover img {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        margin-top: 0;
+        margin-left: 0;
+    }
+
+    .about_img {
+        border-radius: 0;
+        width: 295px;
+        height: 170px;
+        margin: 0 auto;
+    }
+
+    .about_text h4 {
+        font-size: 20px;
+        margin-bottom: 14px;
+        margin-top: 18px;
+    }
+
+    .about_text ul li {
+        font-size: 15px;
+        margin-bottom: 4px;
+    }
+
+    .ab_btn {
+        text-align: center;
+    }
+
+    .ab_btn a {
+        font-size: 15px;
+        padding: 8px 12px;
+    }
+
+    .ab_text a i {
+        font-size: 13px;
+    }
+
+    .about_text p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .about_text {
+        text-align: center;
+    }
+
+    /* =============== about area end ============== */
+
+    /* =============== populer area end ============== */
+    #popular {
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+
+    .header2 {
+        text-align: center !important;
+    }
+
+    .header2 h3 {
+        font-size: 20px;
+        margin-bottom: 20px;
+        line-height: 36px;
+    }
+
+    .header2 h3::after {
+        display: none;
+    }
+
+    .popular_left {
+        display: none;
+    }
+
+    .pop_first {
+        display: none !important;
+    }
+
+    .pop_last {
+        display: none !important;
+    }
+
+    .pop_item {
+        height: 265px;
+        -webkit-clip-path: none;
+        clip-path: none;
+        margin: 0 8px;
+    }
+
+    /* =============== populer area end ============== */
+
+    /* =============== tournament area end ============== */
+    #tournament {
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+
+    #tournament .play-icon i {
+        font-size: 16px;
+        width: 40px;
+        height: 40px;
+        line-height: 38px;
+    }
+
+    .tour-content h3 {
+        font-size: 20px;
+    }
+
+    .tour-content p {
+        font-size: 14px;
+    }
+
+    .image-of-tornmnt img {
+        filter: grayscale(0);
+        -webkit-filter: grayscale(0);
+    }
+
+    .t_head h4 {
+        margin-top: 10px;
+        margin-bottom: 40px;
+    }
+
+    .t_left {
+        width: 100%;
+        -webkit-clip-path: none;
+        clip-path: none;
+    }
+
+    .t_right {
+        width: 100%;
+        -webkit-clip-path: none;
+        clip-path: none;
+    }
+
+    .s_row {
+        margin-top: -50px !important;
+    }
+
+    .sale_img {
+        height: 400px;
+    }
+
+    #sale {
+        padding-top: 90px;
+        padding-bottom: 50px;
+    }
+
+    .cat_text h2 {
+        font-size: 20px;
+        line-height: 35px;
+    }
+
+    .cat_text p {
+        font-size: 14px;
+    }
+
+    .main_cat {
+        margin-top: 30px;
+    }
+
+    .catalog {
+        padding: 30px 10px;
+    }
+
+    .th h3 {
+        font-size: 20px;
+        margin-bottom: 0;
+        line-height: 0;
+    }
+
+    /* =============== tournament area end ============== */
+
+    /* =============== store area end ============== */
+    #store {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .st_first {
+        display: none !important;
+    }
+
+    .st_last {
+        display: none !important;
+    }
+
+    .team_img {
+        width: 100%;
+        height: 92%;
+    }
+
+    .team_text p {
+        font-size: 13px;
+        margin-bottom: 20px;
+        padding-right: 0;
+        line-height: 18px;
+    }
+
+    .team_btn button {
+        font-size: 14px;
+        padding: 8px 12px;
+    }
+
+    .te_icon a {
+        margin-right: 10px;
+        margin-top: 5px;
+    }
+
+    .faq_col:nth-child(1),
+    .faq_col:nth-child(2) {
+        margin-bottom: 30px;
+    }
+
+    .f_head {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 20px;
+    }
+
+    .faq_col:nth-child(4) {
+        margin-top: 30px;
+    }
+
+    .f_text {
+        text-align: center;
+    }
+
+    .faq_row::before {
+        display: none;
+    }
+
+    .faq_row::after {
+        display: none;
+    }
+
+    .foot_top {
+        width: 100%;
+        padding: 30px 20px;
+        top: -140px;
+    }
+
+    .f_t_form {
+        margin-left: 0;
+    }
+
+    .f_t_t h3 {
+        font-size: 20px;
+        line-height: 30px;
+        text-align: center;
+    }
+
+    .f_t_form input {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .f_t_form {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .f_t_form button {
+        width: 50%;
+        position: static;
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #faq {
+        padding-bottom: 130px;
+    }
+
+    /* =============== store area end ============== */
+
+    /* =============== footer area end ============== */
+    .foot_content {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .foot1 {
+        margin-top: 50px;
+    }
+
+    .foot1 p {
+        padding-right: 0;
+    }
+
+    .f1_icon {
+        margin-top: 30px;
+        margin-bottom: 45px;
+    }
+
+    .bt_top {
+        display: none !important;
+    }
+
+    .cursor.cursor-follower {
+        display: none;
+    }
+
+    .cursor {
+        display: none;
+    }
+
+    /* =============== footer area end ============== */
+
+}
+
+@media (min-width:450px) and (max-width: 575px) {
+    #tournament .play-icon i {
+        font-size: 38px;
+        width: 70px;
+        height: 70px;
+        line-height: 70px;
+    }
+}
